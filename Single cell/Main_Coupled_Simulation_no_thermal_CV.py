@@ -88,7 +88,7 @@ else:
     
 Thermal_Coeff_Fluid = 1.0 / (Flow_rate * Cp_fluid)
 BASE_PATH = "." 
-OCP_PATH = r"C:\Users\Skysun\Desktop\Battery Model\Battery Level\Code\V2\Parameters"
+OCP_PATH = #your OCP path
 
 # ==============================================================================
 # 3. HELPERS
